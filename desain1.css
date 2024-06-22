@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.all {
+    margin: 170px;
+    box-shadow: 5px 10px 5px 10px;
+    border-radius: 10px;
+}
